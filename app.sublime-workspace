@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"A",
+				"Aportaciones"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"C",
+				"comunicacion"
+			],
+			[
+				"I",
+				"informacion"
+			],
+			[
+				"D",
+				"de"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"HIDE",
+				"hide"
+			],
+			[
+				"c",
+				"contacto"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"V",
+				"ValidacionLetras"
+			],
+			[
+				"onk",
+				"onkeypress\tAttr"
+			],
+			[
+				"tec",
+				"Teclado_especial"
+			],
+			[
+				"t",
+				"Teclado"
+			],
+			[
+				"te",
+				"Teclado_especial"
+			],
+			[
+				"es",
+				"Especiales"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"T",
+				"Tecla"
+			],
+			[
+				"From",
+				"form"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"ob",
+				"Objetivos"
+			],
+			[
+				"v",
+				"Valores"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"d",
+				"direccion"
+			],
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"co",
+				"contenido"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inte",
+				"Interesado"
+			],
+			[
+				"TE",
+				"telefono"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"BORDER",
+				"border-right\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"PH",
+				"php"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_row"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"FO",
+				"FORM\tTag"
+			],
+			[
+				"em",
+				"Email"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"set_c",
+				"mysql_set_charset"
+			],
+			[
+				"conect_",
+				"conect_errono"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bl",
+				"background-color\tproperty"
+			],
+			[
+				"fl",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"borde",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"border",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bla",
+				"background-color\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"j",
+				"jpg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"H",
+				"Set Syntax: HTML"
+			],
+			[
+				"HT",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Brenda Colin/Desktop/Optativa ll Plantilla/app",
+		"/C/Users/Brenda Colin/Desktop/Optativa ll Plantilla/index",
+		"/C/Users/Brenda Colin/Desktop/Optativa ll Plantilla/portafolio.htm",
+		"/C/Users/Brenda Colin/Desktop/Optativa ll Plantilla/porrtafolio.htm",
+		"/C/Users/Brenda Colin/Desktop/Proyecto Zepelin/Optativa II Plantilla/index",
+		"/C/Users/Brenda Colin/Desktop/Optativa ll Plantilla/app.js",
+		"/C/Users/Brenda Colin/Desktop/Proyecto Zepelin/index.html",
+		"/C/Users/Brenda Colin/Desktop/Proyecto Zepelin/app",
+		"/C/Users/Brenda Colin/Desktop/Proyecto Zepelin/index",
+		"/C/paginas web/sitio 2/estilo pagina.css",
+		"/C/wamp64/pagina cms/wordpress/wp-login.php",
+		"/C/wamp64/pagina cms/wordpress/wp-admin/user/admin.php",
+		"/C/wamp64/www/siti3brenda/Contacto.php",
+		"/C/wamp64/www/sitio extra 1parcial/Seguridad.html",
+		"/C/wamp64/www/sitio extra 1parcial/Accesibilidad.html",
+		"/C/wamp64/www/sitio extra 1parcial/Caracteristicas.html",
+		"/C/wamp64/www/sitio extra 1parcial/index.html",
+		"/C/wamp64/www/sitio extra 1parcial/Aportaciones.html",
+		"/C/wamp64/www/siti3brenda/Becaseducativas.html",
+		"/C/wamp64/www/siti3brenda/index.html",
+		"/C/Users/Brenda Colin/Downloads/html5up-landed/index.html",
+		"/C/wamp64/www/sitio extra 1parcial/index.php",
+		"/C/wamp64/www/siti3brenda/css/estilocontactos.css",
+		"/C/wamp64/www/siti3brenda/assets/js/Efectos.js",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/www/sitio 3/index.php",
+		"/C/wamp64/www/siti3brenda/jquery.js",
+		"/C/wamp64/www/siti3brenda/Mision.html",
+		"/C/wamp64/www/siti3brenda/Vision.html",
+		"/C/wamp64/www/siti3brenda/aportaciones.php",
+		"/C/wamp64/www/siti3brenda/Administrador/Contactou.php",
+		"/C/wamp64/www/siti3brenda/Contactou",
+		"/C/wamp64/www/siti3brenda/assets/js/Efectos",
+		"/C/wamp64/www/siti3brenda/right-sidebar.html",
+		"/C/wamp64/www/siti3brenda/no-sidebar.html",
+		"/C/wamp64/www/siti3brenda/left-sidebar.html",
+		"/C/wamp64/www/siti3brenda/elements.html",
+		"/C/wamp64/www/siti3brenda/Objetivos.html",
+		"/C/wamp64/www/siti3brenda/Valores.html",
+		"/C/wamp64/www/siti3brenda/valores.php",
+		"/C/wamp64/www/siti3brenda/objetivos.php",
+		"/C/wamp64/www/siti3brenda/vision.php",
+		"/C/wamp64/www/siti3brenda/mision.php",
+		"/C/wamp64/www/siti3brenda/mapadelsitio.php",
+		"/C/wamp64/www/siti3brenda/empresas.php",
+		"/C/wamp64/www/siti3brenda/Becas.php",
+		"/C/wamp64/www/sitio 4 examen brenda/index.php",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/Actualizar.php",
+		"/C/wamp64/www/sitio 4 examen brenda/css/estillos.css",
+		"/C/wamp64/www/sitio 4 examen brenda/Usuariosu.html",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/Actualizaru.php",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/css/estilouno.css",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/Registro.php",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/index.php",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/Conexion.php",
+		"/C/wamp64/www/siti3brenda/assets/css/main.css",
+		"/C/paginas web/sitio 1/PaginaWEB/pagina1.html",
+		"/C/wamp64/www/sitio 2_brenda guadalupe colin martinez/Registrou.php",
+		"/C/wamp64/www/sitio 2/Registrou.php",
+		"/C/wamp64/www/sitio 2/Registro.php",
+		"/C/wamp64/www/sitio 2/Actualizaru.php",
+		"/C/wamp64/www/sitio 2/Actualizar.php",
+		"/C/Users/Brenda Colin/Documents/Sitio2/actualizar.php",
+		"/C/wamp64/www/sitio 3/contactosu.php",
+		"/C/wamp64/www/sitio 3/contactou",
+		"/C/wamp64/www/sitio 3/contactos",
+		"/C/Users/Brenda Colin/Downloads/1_5048752468972798039.html",
+		"/C/wamp64/www/siti3brenda/Conexionodbc.php",
+		"/C/wamp64/www/sitio 2/css/estilouno.css",
+		"/C/wamp64/www/siti3brenda/assets/css/estilocontactos.css",
+		"/C/wamp64/www/siti3brenda/assets/css/font-awesome.min.css",
+		"/C/wamp64/www/sitio 2/Eliminar.php",
+		"/C/wamp64/www/sitio 2/index.php",
+		"/C/wamp64/www/sitio 2/Usuarios.php",
+		"/E/Sitio2/registro.php",
+		"/E/Sitio2/actualizar.php",
+		"/E/Sitio2/registroU.php",
+		"/E/Sitio2/actualizarU.php",
+		"/E/Sitio2/eliminar.php",
+		"/E/sitio/css/estilo.css",
+		"/C/Users/Brenda Colin/Documents/Sitio2/registro.php",
+		"/C/Users/Brenda Colin/Documents/Sitio2/registroU.php",
+		"/E/Sitio2/css/estilo.css",
+		"/C/wamp64/www/Aserias/conexion.php",
+		"/C/wamp64/www/Aserias/Iniciar.php",
+		"/C/wamp64/www/Aserias/index.php",
+		"/C/wamp64/www/sitio 2/Aserias/index.php",
+		"/C/wamp64/www/sitio 2/Aserias/Iniciar.php",
+		"/C/wamp64/www/sitio 2/Aserias/conexion.php",
+		"/C/wamp64/www/sitio 2/Conexion.php",
+		"/C/wamp64/www/sitio 2/Logeo.php",
+		"/C/Users/Brenda Colin/Downloads/registro.php",
+		"/C/wamp64/www/sitio 2/estilo pagina.css",
+		"/C/Users/Brenda Colin/Downloads/index.php",
+		"/C/Users/Brenda Colin/Downloads/cssmenu.css",
+		"/E/sitio/index.php",
+		"/E/sitio/logeo.php",
+		"/E/logeo.php",
+		"/C/paginas web/sitio 2/index.php",
+		"/D/PaginaWEB/pagina1.html",
+		"/D/PaginaWEB/pagina2.html",
+		"/D/PaginaWEB/pagina3.html",
+		"/D/PaginaWEB/pagina4.html",
+		"/D/PaginaWEB/pagina5.html",
+		"/D/PaginaWEB/estilo3.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
